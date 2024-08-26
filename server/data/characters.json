@@ -1,0 +1,364 @@
+{
+    "characters": [
+        {
+            "name": "Hogger",
+            "id": 1
+        },
+        {
+            "name": "Mei",
+            "id": 2
+        },
+        {
+            "name": "Deathwing",
+            "id": 3
+        },
+        {
+            "name": "Qhira",
+            "id": 4
+        },
+        {
+            "name": "Anduin",
+            "id": 5
+        },
+        {
+            "name": "Imperius",
+            "id": 6
+        },
+        {
+            "name": "Orphea",
+            "id": 7
+        },
+        {
+            "name": "Mal'Ganis",
+            "id": 8
+        },
+        {
+            "name": "Mephisto",
+            "id": 9
+        },
+        {
+            "name": "Whitemane",
+            "id": 10
+        },
+        {
+            "name": "Yrel",
+            "id": 11
+        },
+        {
+            "name": "Deckard Cain",
+            "id": 12
+        },
+        {
+            "name": "Fenix",
+            "id": 13
+        },
+        {
+            "name": "Maiev",
+            "id": 14
+        },
+        {
+            "name": "Blaze",
+            "id": 15
+        },
+        {
+            "name": "Hanzo",
+            "id": 16
+        },
+        {
+            "name": "Alexstrasza",
+            "id": 17
+        },
+        {
+            "name": "Junkrat",
+            "id": 18
+        },
+        {
+            "name": "Ana",
+            "id": 19
+        },
+        {
+            "name": "Kel'Thuzad",
+            "id": 20
+        },
+        {
+            "name": "Garrosh",
+            "id": 21
+        },
+        {
+            "name": "Stukov",
+            "id": 22
+        },
+        {
+            "name": "Malthael",
+            "id": 23
+        },
+        {
+            "name": "D.Va",
+            "id": 24
+        },
+        {
+            "name": "Genji",
+            "id": 25
+        },
+        {
+            "name": "Cassia",
+            "id": 26
+        },
+        {
+            "name": "Lucio",
+            "id": 27
+        },
+        {
+            "name": "Probius",
+            "id": 28
+        },
+        {
+            "name": "Valeera",
+            "id": 29
+        },
+        {
+            "name": "Zul'jin",
+            "id": 30
+        },
+        {
+            "name": "Ragnaros",
+            "id": 31
+        },
+        {
+            "name": "Varian",
+            "id": 32
+        },
+        {
+            "name": "Samuro",
+            "id": 33
+        },
+        {
+            "name": "Zarya",
+            "id": 34
+        },
+        {
+            "name": "Alarak",
+            "id": 35
+        },
+        {
+            "name": "Auriel",
+            "id": 36
+        },
+        {
+            "name": "Gul'dan",
+            "id": 37
+        },
+        {
+            "name": "Medivh",
+            "id": 38
+        },
+        {
+            "name": "Chromie",
+            "id": 39
+        },
+        {
+            "name": "Tracer",
+            "id": 40
+        },
+        {
+            "name": "Dehaka",
+            "id": 41
+        },
+        {
+            "name": "Xul",
+            "id": 42
+        },
+        {
+            "name": "Li-Ming",
+            "id": 43
+        },
+        {
+            "name": "Greymane",
+            "id": 44
+        },
+        {
+            "name": "Lunara",
+            "id": 45
+        },
+        {
+            "name": "Cho",
+            "id": 46
+        },
+        {
+            "name": "Gall",
+            "id": 47
+        },
+        {
+            "name": "Artanis",
+            "id": 48
+        },
+        {
+            "name": "Lt. Morales",
+            "id": 49
+        },
+        {
+            "name": "Rexxar",
+            "id": 50
+        },
+        {
+            "name": "Leoric",
+            "id": 51
+        },
+        {
+            "name": "Kharazim",
+            "id": 52
+        },
+        {
+            "name": "Johanna",
+            "id": 53
+        },
+        {
+            "name": "The Butcher",
+            "id": 54
+        },
+        {
+            "name": "Sylvanas",
+            "id": 55
+        },
+        {
+            "name": "Kael'thas",
+            "id": 56
+        },
+        {
+            "name": "Thrall",
+            "id": 57
+        },
+        {
+            "name": "Lost Vikings",
+            "id": 58
+        },
+        {
+            "name": "Jaina",
+            "id": 59
+        },
+        {
+            "name": "Zeratul",
+            "id": 60
+        },
+        {
+            "name": "Diablo",
+            "id": 61
+        },
+        {
+            "name": "ETC",
+            "id": 62
+        },
+        {
+            "name": "Tychus",
+            "id": 63
+        },
+        {
+            "name": "Abathur",
+            "id": 64
+        },
+        {
+            "name": "Tyrael",
+            "id": 65
+        },
+        {
+            "name": "Anub'arak",
+            "id": 66
+        },
+        {
+            "name": "Nazeebo",
+            "id": 67
+        },
+        {
+            "name": "Sonya",
+            "id": 68
+        },
+        {
+            "name": "Uther",
+            "id": 69
+        },
+        {
+            "name": "Arthas",
+            "id": 70
+        },
+        {
+            "name": "Illidan",
+            "id": 71
+        },
+        {
+            "name": "Malfurion",
+            "id": 72
+        },
+        {
+            "name": "Gazlowe",
+            "id": 73
+        },
+        {
+            "name": "Muradin",
+            "id": 74
+        },
+        {
+            "name": "Kerrigan",
+            "id": 75
+        },
+        {
+            "name": "Tassadar",
+            "id": 76
+        },
+        {
+            "name": "Brightwing",
+            "id": 77
+        },
+        {
+            "name": "Zagara",
+            "id": 78
+        },
+        {
+            "name": "Rehgar",
+            "id": 79
+        },
+        {
+            "name": "Falstad",
+            "id": 80
+        },
+        {
+            "name": "Raynor",
+            "id": 81
+        },
+        {
+            "name": "Azmodan",
+            "id": 82
+        },
+        {
+            "name": "Murky",
+            "id": 83
+        },
+        {
+            "name": "Sgt. Hammer",
+            "id": 84
+        },
+        {
+            "name": "Valla",
+            "id": 85
+        },
+        {
+            "name": "Tyrande",
+            "id": 86
+        },
+        {
+            "name": "Stiches",
+            "id": 87
+        },
+        {
+            "name": "Lili",
+            "id": 88
+        },
+        {
+            "name": "Nova",
+            "id": 89
+        },
+        {
+            "name": "Chen",
+            "id": 90
+        }
+    ]
+}
